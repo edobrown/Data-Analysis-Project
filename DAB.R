@@ -147,4 +147,6 @@ ggplot(data.frame(k = 1:20, score = scores), aes(x = k, y = score)) +
   labs(x = "Number of Neighbors (k)", y = "Test Accuracy",
        title = "Test Accuracy for some k for k-NN")
 
+#edoardo
+
 
